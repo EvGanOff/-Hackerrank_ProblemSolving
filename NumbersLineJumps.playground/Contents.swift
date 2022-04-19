@@ -13,4 +13,3 @@ func kangaroo(x1: Int, v1: Int, x2: Int, v2: Int) -> String {
     return "NO"
 }
 
-kangaroo(x1: 0, v1: 3, x2: 4, v2: 2)
